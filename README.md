@@ -1,2 +1,5 @@
 # IBM-Developing-Front-End-Apps-with-React
-appdevreactibm
+developing UI with React
+
+# Authors
+Oussama TAZI
